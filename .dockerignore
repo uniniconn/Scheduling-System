@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+npm-debug.log
+Dockerfile
+docker-compose.yml
+.env
+.env.local
+data
+backups
+.npm-cache
+.acl-recovery
+*.db
+*.log
+README.md
